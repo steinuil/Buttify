@@ -13,4 +13,5 @@ function recursiveReplace(node) {
     }
 }
 
+recursiveReplace(document.head);
 recursiveReplace(document.body);
