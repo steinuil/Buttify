@@ -6,7 +6,7 @@ A Safari extension that replaces all occurrences of "cloud" with "butt".
 
 Download
 --------
-Download [here](), or clone/fork this repo and create a package yourself, if you know how to.
+Download [here](https://github.com/steinuil/Buttify/releases/), or clone/fork this repo and create a package yourself, if you know how to.
 
 Credits
 -------
