@@ -2,7 +2,13 @@ Buttify
 =======
 A Safari extension that replaces all occurrences of "cloud" with "butt".
 
+Examples
+--------
 ![alt text](http://i.imgur.com/xXwx8Gn.png "If this is what you're seeing you're alright.")
+![alt text](http://i.imgur.com/XNaGvDG.png "A page where Buttify can fully demonstrate its capabilities.")
+![alt text](http://i.imgur.com/mTmYR8o.png "Ditto.")
+
+The possibilities are endless, the only limit is your imagination.
 
 Download
 --------
