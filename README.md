@@ -17,3 +17,8 @@ Download [here](https://github.com/steinuil/Buttify/releases/), or clone/fork th
 Credits
 -------
 Modified by [@steinuil](https://twitter.com/steinuil), inspired by somebody's idea on a certain imageboard, forked from [Leopardize](https://github.com/jokkedk/Leopardize-safari-extension) by Joakim Nygård, [@jokkedk](http://twitter.com/jokkedk).
+
+***
+
+![Works on my machine](http://i.imgur.com/s6hwxiJ.png)
+Certified to work on my machine™!
